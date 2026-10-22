@@ -15,4 +15,4 @@
 
 ### Descarga el contenido del repositorio en tu equipo, con el comando:
 
-    - git close
+    - git clone
