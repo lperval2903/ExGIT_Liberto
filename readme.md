@@ -14,6 +14,6 @@
 ![Logo unicaja](https://www.unicajabaloncesto.com/Images/Web/logo.png)
 
 ### Descarga el contenido del repositorio en tu equipo, con el comando:
-`
+-
 git close
-`
+-
