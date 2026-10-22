@@ -11,4 +11,4 @@
 ## Web oficial del club
 
 ### La web oficial del club es [Web oficial](https://www.google.com/)
-!(https://www.unicajabaloncesto.com/Images/Web/logo.png)
+![Logo unicaja](https://www.unicajabaloncesto.com/Images/Web/logo.png)
