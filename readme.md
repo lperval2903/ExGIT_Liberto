@@ -4,11 +4,11 @@
 
 ## En este repositorio podrás encontrar
 
-    - Imagenes del equipo. :camera:</li>
-    - Informes sobre campañas de abonos</li>
+    - Imagenes del equipo. :camera:
+    - Informes sobre campañas de abonos
 
 
 ## Web oficial del club
 
 ### La web oficial del club es [Web oficial](https://www.google.com/)
-## !(https://www.unicajabaloncesto.com/Images/Web/logo.png)
+!(https://www.unicajabaloncesto.com/Images/Web/logo.png)
