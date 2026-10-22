@@ -4,8 +4,8 @@
 
 ## En este repositorio podrás encontrar
 
-    Imagenes del equipo. :camera:
-    Informes sobre campañas de abonos
+- Imagenes del equipo. :camera:
+- Informes sobre campañas de abonos
 
 
 ## Web oficial del club
@@ -15,4 +15,4 @@
 
 ### Descarga el contenido del repositorio en tu equipo, con el comando:
 
-- git close
+    - git close
